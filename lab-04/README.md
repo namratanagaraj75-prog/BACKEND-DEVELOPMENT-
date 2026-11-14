@@ -9,7 +9,7 @@
 - **Year:** II
 - **Term:** II
 - **University:** Aurora
-- **Faculty:*Mr Yugandhar Gurjalwar*
+- **Faculty:**Mr Yugandhar Gurjalwar
 
 ## Live Link
 
